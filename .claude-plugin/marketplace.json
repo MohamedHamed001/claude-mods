@@ -21,7 +21,7 @@
         "source": "github",
         "repo": "MohamedHamed001/claude-focus"
       },
-      "description": "Keeps the one next action pinned above the prompt, with time on task, parked thoughts, today's wins and a where-you-left-off recap in a pane"
+      "description": "Keeps the one next action pinned above the prompt, with time on task, parked thoughts, today's wins and a where-you-left-off recap in a pane; bundles the i-have-adhd writing rules so every reply ends with that next action"
     },
     {
       "name": "delegation",
