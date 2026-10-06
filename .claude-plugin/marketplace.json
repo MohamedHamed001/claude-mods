@@ -10,24 +10,24 @@
     {
       "name": "cache-status",
       "source": {
-        "source": "github",
-        "repo": "MohamedHamed001/claude-cache-status"
+        "source": "url",
+        "url": "https://github.com/MohamedHamed001/claude-cache-status.git"
       },
       "description": "Shows this session's prompt-cache status above the prompt: time left before it goes cold, context size, and what a re-ingest would cost"
     },
     {
       "name": "focus",
       "source": {
-        "source": "github",
-        "repo": "MohamedHamed001/claude-focus"
+        "source": "url",
+        "url": "https://github.com/MohamedHamed001/claude-focus.git"
       },
       "description": "Keeps the one next action pinned above the prompt, with time on task, parked thoughts, today's wins and a where-you-left-off recap in a pane; bundles the i-have-adhd writing rules so every reply ends with that next action"
     },
     {
       "name": "delegation",
       "source": {
-        "source": "github",
-        "repo": "MohamedHamed001/claude-delegation"
+        "source": "url",
+        "url": "https://github.com/MohamedHamed001/claude-delegation.git"
       },
       "description": "Everything for delegating coding work: Codex, agy and Claude worker skills; /delegate, /explore, /delegate-setup and /delegations; the official Codex plugin's commands bundled as /codex-* with matching /agy-* commands; a measured delegation policy that refuses tasks too small to be worth it; and a live view of running jobs and what they cost"
     }
