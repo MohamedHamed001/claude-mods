@@ -1,4 +1,0 @@
-# Written by Claude Code next to a mod it loads from a folder (type references for
-# editors). Generated per machine and per app version, so not kept in the repo.
-plugins/*/.claude-plugin/types/
-plugins/*/tsconfig.json

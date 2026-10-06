@@ -1,9 +1,0 @@
-{
-  "name": "delegation",
-  "version": "0.4.0",
-  "description": "Everything for delegating coding work: Codex, agy and Claude worker skills; /delegate, /explore, /delegate-setup and /delegations; the official Codex plugin's commands bundled as /codex-* with matching /agy-* commands (rescue, review, adversarial-review, status, result, cancel, setup); a measured delegation policy that refuses tasks too small to be worth it; and a live view of running jobs and what they cost",
-  "author": {
-    "name": "Mohamed Hamed"
-  },
-  "types": "./types/index.d.ts"
-}
