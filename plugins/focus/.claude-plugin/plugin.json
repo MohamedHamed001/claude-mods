@@ -1,0 +1,7 @@
+{
+  "name": "focus",
+  "version": "0.1.0",
+  "description": "Keeps the one next action pinned above the prompt, with time on task, parked thoughts, today's wins and a where-you-left-off recap in a pane",
+  "author": { "name": "Mohamed Hamed" },
+  "types": "./types/index.d.ts"
+}
