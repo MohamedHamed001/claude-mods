@@ -13,7 +13,7 @@
         "source": "url",
         "url": "https://github.com/MohamedHamed001/claude-cache-status.git"
       },
-      "description": "Shows this session's prompt-cache status above the prompt: time left before it goes cold, context size, and what a re-ingest would cost"
+      "description": "Shows this session's prompt cache above the prompt: hit rate, countdown to cold, what a re-ingest would cost, and a Start fresh button that hands the work to a cleared conversation"
     },
     {
       "name": "focus",
