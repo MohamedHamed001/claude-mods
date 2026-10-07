@@ -21,7 +21,7 @@
         "source": "url",
         "url": "https://github.com/MohamedHamed001/claude-focus.git"
       },
-      "description": "One next: list above the prompt: Claude's own next action first, then next-steps' suggested prompts (press a number to draft one); time on task, today's wins and parked thoughts; a Focus pane with the plan, parked thoughts and a recap; bundles the i-have-adhd writing rules"
+      "description": "next-steps' suggested prompts above the prompt (press a number to draft one), with time on task, today's wins and parked thoughts; a Focus pane with the plan, the next action, parked thoughts and a recap; bundles the i-have-adhd writing rules"
     },
     {
       "name": "delegation",
