@@ -4,7 +4,7 @@
     "name": "Mohamed Hamed"
   },
   "metadata": {
-    "description": "An index of Claude Code plugins: delegation, focus and cache-status, each in its own repository"
+    "description": "An index of Claude Code plugins: delegation, focus, cache-status, guard and change-ledger, each in its own repository"
   },
   "plugins": [
     {
@@ -21,7 +21,7 @@
         "source": "url",
         "url": "https://github.com/MohamedHamed001/claude-focus.git"
       },
-      "description": "next-steps' suggested prompts above the prompt (press a number to draft one), with time on task, today's wins and parked thoughts; a Focus pane with the plan, the next action, parked thoughts and a recap; bundles the i-have-adhd writing rules"
+      "description": "next-steps' suggested prompts above the prompt (press a number to draft one), explain buttons after a long reply (simpler, example, where it fits), time on task, today's wins and parked thoughts; a Focus pane with the plan, the next action, parked thoughts and a recap; bundles the i-have-adhd writing rules"
     },
     {
       "name": "delegation",
@@ -29,7 +29,23 @@
         "source": "url",
         "url": "https://github.com/MohamedHamed001/claude-delegation.git"
       },
-      "description": "Everything for delegating coding work: Codex, agy and Claude worker skills; /delegate, /explore, /delegate-setup and /delegations; the official Codex plugin's commands bundled as /codex-* with matching /agy-* commands; a measured delegation policy that refuses tasks too small to be worth it; and a live view of running jobs and what they cost"
+      "description": "Everything for delegating coding work: Codex, agy and Claude worker skills; /delegate, /explore, /delegate-setup and /delegations; the official Codex plugin's commands bundled as /codex-* with matching /agy-* commands; a measured delegation policy that refuses tasks too small to be worth it; a confirmation before any run on the scarce Sol model; and a live view of running jobs and what they cost"
+    },
+    {
+      "name": "guard",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/MohamedHamed001/claude-guard.git"
+      },
+      "description": "Stops a push made with the wrong GitHub account, and asks before a command that deletes folders, drops databases or rewrites git history, showing what it would remove"
+    },
+    {
+      "name": "change-ledger",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/MohamedHamed001/claude-change-ledger.git"
+      },
+      "description": "A pane listing every file Claude changed this session, grouped by who owns it, each with the request that caused it, and a button that copies the list as a standup note"
     }
   ]
 }
