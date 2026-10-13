@@ -4,7 +4,7 @@
     "name": "Mohamed Hamed"
   },
   "metadata": {
-    "description": "An index of Claude Code plugins: delegation, focus, cache-status, guard and change-ledger, each in its own repository"
+    "description": "An index of Claude Code plugins: delegation, focus, cache-status, guard, change-ledger and prompt-upgrade, each in its own repository"
   },
   "plugins": [
     {
@@ -46,6 +46,14 @@
         "url": "https://github.com/MohamedHamed001/claude-change-ledger.git"
       },
       "description": "A pane listing every file Claude changed this session, grouped by who owns it, each with the request that caused it, and a button that copies the list as a standup note"
+    },
+    {
+      "name": "prompt-upgrade",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/MohamedHamed001/claude-prompt-upgrade.git"
+      },
+      "description": "Asks a few quick questions, then rewrites your short prompt into a much more detailed one you can edit, copy or run with one click; /upgrade -claude or /upgrade -codex picks who rewrites it, and two buttons above the prompt upgrade your draft"
     }
   ]
 }
