@@ -53,7 +53,7 @@
         "source": "url",
         "url": "https://github.com/MohamedHamed001/claude-prompt-upgrade.git"
       },
-      "description": "Asks a few quick questions, then rewrites your short prompt into a much more detailed one; /upgrade -claude or /upgrade -codex picks who rewrites it, and the result is copied to the clipboard with a new Claude Code session opened beside this one (Windows Terminal or tmux) to paste it into"
+      "description": "Asks a few quick questions, then rewrites your short prompt into a much more detailed one; /upgrade-prompt -claude or /upgrade-prompt -codex picks who rewrites it, and the result is copied to the clipboard with a new Claude Code session opened beside this one (Windows Terminal or tmux) to paste it into"
     }
   ]
 }
