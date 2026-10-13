@@ -29,7 +29,7 @@
         "source": "url",
         "url": "https://github.com/MohamedHamed001/claude-delegation.git"
       },
-      "description": "Everything for delegating coding work: Codex, agy and Claude worker skills; /delegate, /explore, /delegate-setup and /delegations; the official Codex plugin's commands bundled as /codex-* with matching /agy-* commands; a measured delegation policy that refuses tasks too small to be worth it; a confirmation before any run on the scarce Sol model; a band above the prompt with a small animated pet for each delegated job, coloured by worker; and a live view of running jobs and what they cost"
+      "description": "Everything for delegating coding work: Codex, agy and Claude worker skills; /delegate, /explore, /delegate-setup and /delegations; the official Codex plugin's commands bundled as /codex-* with matching /agy-* commands; a measured delegation policy that refuses tasks too small to be worth it; a confirmation before any run on the scarce Sol model; a band above the prompt with a little Clawd for each delegated job, dressed for its model; and a live view of running jobs and what they cost"
     },
     {
       "name": "guard",
