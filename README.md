@@ -6,7 +6,7 @@ and install any of them.
 
 | Plugin | Repository | In one line |
 |---|---|---|
-| **delegation** | [claude-delegation](https://github.com/MohamedHamed001/claude-delegation) | Hand work to Codex, agy (Google Antigravity) or Claude subagents, only when it pays, and watch what it costs. Bundles the Codex commands as `/codex-*` with matching `/agy-*` commands. |
+| **delegation** | [claude-delegation](https://github.com/MohamedHamed001/claude-delegation) | Hand work to Codex, agy (Google Antigravity) or Claude subagents, only when it pays, and watch each job as a small pet above the prompt and what it costs. Bundles the Codex commands as `/codex-*` with matching `/agy-*` commands. |
 | **focus** | [claude-focus](https://github.com/MohamedHamed001/claude-focus) | Keeps the one next action pinned above the prompt, with time on task, parked thoughts and today's wins |
 | **cache-status** | [claude-cache-status](https://github.com/MohamedHamed001/claude-cache-status) | Shows when this session's prompt cache goes cold, and what re-reading the conversation would cost |
 | **guard** | [claude-guard](https://github.com/MohamedHamed001/claude-guard) | Stops a push made with the wrong GitHub account, and asks before a command that deletes folders, drops databases or rewrites git history |
