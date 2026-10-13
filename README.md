@@ -11,7 +11,7 @@ and install any of them.
 | **cache-status** | [claude-cache-status](https://github.com/MohamedHamed001/claude-cache-status) | Shows when this session's prompt cache goes cold, and what re-reading the conversation would cost |
 | **guard** | [claude-guard](https://github.com/MohamedHamed001/claude-guard) | Stops a push made with the wrong GitHub account, and asks before a command that deletes folders, drops databases or rewrites git history |
 | **change-ledger** | [claude-change-ledger](https://github.com/MohamedHamed001/claude-change-ledger) | Lists every file Claude changed this session, grouped by owner, each with the request that caused it; copies the list as a standup note |
-| **prompt-upgrade** | [claude-prompt-upgrade](https://github.com/MohamedHamed001/claude-prompt-upgrade) | Asks a few quick questions, then rewrites your short prompt into a detailed one you can edit, copy or run; Claude or Codex does the rewriting |
+| **prompt-upgrade** | [claude-prompt-upgrade](https://github.com/MohamedHamed001/claude-prompt-upgrade) | Asks a few quick questions, then rewrites your short prompt into a detailed one, copies it and opens a session beside this one to paste it into; Claude or Codex does the rewriting |
 
 ## Install
 
